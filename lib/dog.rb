@@ -16,3 +16,5 @@ puts fido.name
 
 bark = Dog.new
 fido.bark = "woof!"
+
+puts fido.bark
