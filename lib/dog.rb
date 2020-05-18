@@ -13,3 +13,6 @@ fido = Dog.new
 fido.name = "Fido"
 
 puts fido.name
+
+bark = Dog.new
+bark.bark = "woof!"
