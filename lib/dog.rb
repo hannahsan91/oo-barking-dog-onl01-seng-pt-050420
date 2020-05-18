@@ -15,4 +15,4 @@ fido.name = "Fido"
 puts fido.name
 
 bark = Dog.new
-bark.bark = "woof!"
+fido.bark = "woof!"
